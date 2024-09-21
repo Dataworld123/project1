@@ -1,0 +1,2 @@
+pymongo==4.2.0
+-e . # it help automatically update setup.py file when update requirements.txt file
